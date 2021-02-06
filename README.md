@@ -4,7 +4,7 @@ An archey script for OS X.
 ```sh
                  ###                  User: jhann
                ####                   Hostname: obihann
-               ###                    Distro: OS X 10.10.5
+               ###                    Distro: macOS 11.0
        #######    #######             Kernel: Darwin
      ######################           Uptime:  6:11
     #####################             Shell: /bin/zsh
@@ -25,7 +25,7 @@ An archey script for OS X.
 * [License](#license)
 
 ## Download
-The latest stable release is [1.6.0](https://github.com/obihann/archey-osx/archive/1.6.0.tar.gz) (md5 82a064d8ce8069f1fa6e9bdf570ebca7).
+The latest stable release is [1.7.0](https://github.com/zackintosh/archey-osx/archive/1.7.0.tar.gz).
 
 ## Installation
 To get started you will need [homebrew](http://brew.sh/) to manage packages such as Python, figlet, and cowsay. To install please run the following command:
